@@ -3,7 +3,7 @@
   <groupId>org.clojure</groupId>
   <artifactId>tools.logging</artifactId>
   <packaging>jar</packaging>
-  <version>0.4.666</version>
+  <version>0.4.667</version>
   <name>tools.logging</name>
   <description>Clojure logging API.</description>
   <url>https://github.com/clojure/tools.logging</url>
@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/xingzhefeng/tools.logging.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/xingzhefeng/tools.logging.git</developerConnection>
-    <tag>e13cb2434538c022b09336d511443ea49b857366
+    <tag>4e476fb04df205d53ac38e0e94718cf09fd29317
 </tag>
     <url>https://github.com/xingzhefeng/tools.logging</url>
   </scm>
