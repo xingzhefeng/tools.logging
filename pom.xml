@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/xingzhefeng/tools.logging.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/xingzhefeng/tools.logging.git</developerConnection>
-    <tag>dec185405d01cf2172f95deef08f4fd0791899c0
+    <tag>e13cb2434538c022b09336d511443ea49b857366
 </tag>
     <url>https://github.com/xingzhefeng/tools.logging</url>
   </scm>
@@ -51,6 +51,16 @@
     <repository>
       <id>clojars</id>
       <url>https://clojars.org/repo/</url>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+    </repository>
+    <repository>
+      <id>releases</id>
+      <url>http://repocloudvastyun.cloudvast.net/repo/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
